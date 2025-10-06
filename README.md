@@ -39,7 +39,7 @@ Data Processing & Extraction
 
 **Pandas:** For parsing and handling .csv and .xlsx files.
 
-**PyMuPDF (fitz):** For extracting text and images from .pdf documents.
+**PyMuPDF (fitz) or Py2PDF:** For extracting text and images from .pdf documents.
 
 **Pytesseract:** The OCR engine used to extract text from images.
 
